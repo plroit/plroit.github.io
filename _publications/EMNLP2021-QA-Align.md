@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "QA-Align: Representing Cross-Text Content Overlap by Aligning Question-Answer Propositions"
 collection: publications
 permalink: /publication/EMNLP2021-QA-Align
 excerpt: "In order to explicitly represent content overlap, we propose to align predicate-argument relations across texts, providing a potential scaffold for information consolidation. "

@@ -1,5 +1,5 @@
 ---
-title: "Asking It All: Generating Contextualized Questionsfor any Semantic Role"
+title: "Asking It All: Generating Contextualized Questions for any Semantic Role"
 collection: publications
 permalink: /publication/EMNLP2021-Asking-It-All
 excerpt: "We introduce the task of role question generation, which, given a predicate mention and a passage, requires producing a set of questions asking about all possible semantic roles of the predicate. ... Unlike most existing approaches to question generation, our approach does not require conditioning on existing answers in the text."
