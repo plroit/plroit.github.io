@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paul Roit's homepage"
+title                    : "Paul Roit's Homepage"
 title_separator          : "-"
 name                     : &name "Paul Roit"
 description              : &description "PhD student at Bar-Ilan University, this site would showcase my publications and other academic endeavours"

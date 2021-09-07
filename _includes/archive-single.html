@@ -42,6 +42,7 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>{% if post.slides %} <a  class="ms-2" href="{{ post.slides }}"><i class="fab fa-fw fa-slideshare"></i> slides</a> {%endif%} {% if post.video %} <a class="ms-2" href="{{ post.video }}"><i class="fab fa-fw fa-youtube"></i> video</a> {%endif%} {% if post.repo %} <a class="ms-2" href="{{ post.repo }}"><i class="fab fa-fw fa-github"></i> code</a> {% endif %}</p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
