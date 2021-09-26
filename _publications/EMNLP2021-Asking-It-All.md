@@ -5,12 +5,12 @@ permalink: /publication/EMNLP2021-Asking-It-All
 excerpt: "We introduce the task of role question generation, which, given a predicate mention and a passage, requires producing a set of questions asking about all possible semantic roles of the predicate. ... Unlike most existing approaches to question generation, our approach does not require conditioning on existing answers in the text."
 date: 2021-11-01
 venue: 'EMNLP'
-paperurl: https://arxiv.org/abs/2109.04832
+paperurl: "https://arxiv.org/abs/2109.04832"
 citation: 
 slides: 
 video: 
-pdf: https://arxiv.org/pdf/2109.04832.pdf
-repo: https://github.com/ValentinaPy/RoleQGeneration
+pdf: "https://arxiv.org/pdf/2109.04832.pdf"
+repo: "https://github.com/ValentinaPy/RoleQGeneration"
 ---
 **Abstract**
 Asking questions about a situation is an inherent step towards understanding it. 
