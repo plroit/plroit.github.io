@@ -10,7 +10,7 @@ citation:
 slides: 
 video: 
 pdf: 
-repo: 
+repo: "https://github.com/DanielaBWeiss/QA-ALIGN" 
 ---
 **Abstract**
 Multi-text applications, such as multi-document summarization, are typically required to model redundancies across related texts.    
