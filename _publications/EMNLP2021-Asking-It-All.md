@@ -7,7 +7,7 @@ date: 2021-11-01
 venue: 'EMNLP'
 paperurl: "https://arxiv.org/abs/2109.04832"
 citation: 
-slides: 
+slides: "https://docs.google.com/presentation/d/1Y-tHQ5L0Y6xGG9S_8cWm58uPdSa4trtpIZ0jui1wSLk/edit?usp=sharing"
 video: 
 pdf: "https://arxiv.org/pdf/2109.04832.pdf"
 repo: "https://github.com/ValentinaPy/RoleQGeneration"
