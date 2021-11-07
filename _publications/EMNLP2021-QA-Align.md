@@ -7,7 +7,7 @@ date: 2021-11-01
 venue: 'EMNLP'
 paperurl: 
 citation: 
-slides: 
+slides: "https://docs.google.com/presentation/d/1A4G_4rTioXO4_Fuj45UE_EmYF9roJz4tRACfALcAa5g/edit?usp=sharing"
 video: 
 pdf: 
 repo: "https://github.com/DanielaBWeiss/QA-ALIGN" 
