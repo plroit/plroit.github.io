@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Paul Roit"
-  avatar           : "pr_1.jpg"
+  avatar           : "pr_2.jpg"
   bio              : "PhD student at Bar-Ilan University, interested in Natural Language Processing"
   location         : "Tel-Aviv"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "paul_r26"
+  twitter          : "paul_roit"
   vine             :
   weibo            :
   xing             :
